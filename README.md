@@ -9,11 +9,19 @@ To analyze and visualize healthcare data to:
 - Observe trends based on age demographics (Adult, Child, Infant, Teen, Senior)
 
 ##  Key Features
-- Interactive Dashboards showing trends and patterns in healthcare services
-- Demographic Analysis based on patient age groups
-- Recovery Rating Visualization to assess treatment effectiveness
-- Cost Analysis of hospital stays and treatments
-- Admission Trend Monitoring across different time frames
+- Interactive Dashboards showing trends and patterns in healthcare services.
+- Demographic Analysis based on patient age groups.
+- Categorizing Age Groups and Analysis of predominant age groups.
+- Analysis of Treatment Costs.
+- Total cost of treatment for each patient, Which treatments are the most expensive on average.
+- Gender Distribution in Diagnosis.
+- Blood Type Analysis, Recovery Rating Analysis,Hospital Utilization Analysis, Doctor's Patient Load.
+- Recovery Rating Visualization to assess treatment effectiveness.
+- Cost Analysis of hospital stays and treatments.
+- Admission Trend Monitoring across different time frames.
+- Correlation Between Age and Recovery,Analyzing Room Efficiency, Impact of Doctor on Recovery.
+- Length of Stay and Cost Correlation , Recovery Trends by Gender and Age Group,Hospital Performance Analysis,Extracting Key Information.
+- Predictive Modeling for Recovery Rating and Cohort Analysis Based on Admission Date.
 
 ## Tools Used
 - Power BI – for data modeling, visualizations, and interactive dashboards
